@@ -1,0 +1,14 @@
+H1{
+    color:#2b0000;
+    text-align:center;
+}
+div{
+    padding: 20px;
+    text-align:center;
+}
+.button{
+    padding: 10px 20px;
+    background: #2b0000;
+    color: #ffffff;
+    display: inline-block;
+}
